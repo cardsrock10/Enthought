@@ -1,0 +1,8 @@
+This directory contains exercises appropriate for use in the section
+of the course about NumPy.
+
+The following exercises use the geoio library, so they are only
+appropriate for use at sites where this library is installed:
+
+    geoio_log_calculations
+    geoio_select_layer
